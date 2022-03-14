@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">C_Bake</string>
+    <string name="title_baking_list">Baking</string>
+    <string name="title_baking_detail">Baking Detail</string>
+    <string name="ing">Ingredients :</string>
+    <string name="add_to_widget">Add To Widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
